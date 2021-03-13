@@ -1,4 +1,6 @@
+.DS_Store
 /docs/*
 /build/log.txt
 /build/*ufo
 /sources/files/*
+fontester-maname/
