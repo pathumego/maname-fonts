@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinSsIi" format="1">
-	<advance width="788"/>
+<glyph name="sinSsIi" format="2">
+	<advance width="607"/>
 	<outline>
-		<component base="sinMatraIi.alt" xOffset="439" yOffset="52"/>
-		<component base="sinSsa"/>
+		<component base="ssa-sinhala"/>
+		<component base="sinMatraIi.alt" xOffset="332" yOffset="1"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 17:06:02 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
 		</dict>
 	</lib>
 </glyph>

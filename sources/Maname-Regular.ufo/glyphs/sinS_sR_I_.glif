@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinSsRI" format="1">
-	<advance width="788"/>
+<glyph name="sinSsRI" format="2">
+	<advance width="615"/>
 	<outline>
-		<component base="sinSsRa" xOffset="5"/>
-		<component base="sinMatraI.alt" xOffset="104" yOffset="18"/>
+		<component base="sinSsRa" xOffset="4"/>
+		<component base="sinMatraI.alt" xOffset="336" yOffset="9"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-02 10:33:29 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinPa</string>
 		</dict>
 	</lib>
 </glyph>

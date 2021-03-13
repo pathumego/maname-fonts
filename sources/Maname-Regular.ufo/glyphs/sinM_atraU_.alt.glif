@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraU.alt" format="1">
+<glyph name="sinMatraU.alt" format="2">
+	<advance width="0"/>
 	<outline>
 		<contour>
-			<point x="17" y="-305" type="line"/>
-			<point x="25" y="233" type="line"/>
-			<point x="-12" y="233" type="line"/>
-			<point x="-32" y="-212" type="line"/>
-			<point x="-475" y="-244" type="line"/>
-			<point x="-526" y="-246"/>
-			<point x="-550" y="-219"/>
-			<point x="-550" y="-184" type="curve" smooth="yes"/>
-			<point x="-550" y="-147"/>
-			<point x="-500" y="-105"/>
-			<point x="-419" y="-125" type="curve"/>
-			<point x="-414" y="-100" type="line"/>
-			<point x="-414" y="-100"/>
-			<point x="-453" y="-69"/>
-			<point x="-499" y="-70" type="curve" smooth="yes"/>
-			<point x="-579" y="-72"/>
-			<point x="-620" y="-138"/>
-			<point x="-621" y="-188" type="curve" smooth="yes"/>
-			<point x="-622" y="-243"/>
-			<point x="-588" y="-305"/>
-			<point x="-456" y="-305" type="curve" smooth="yes"/>
-		</contour>
-		<contour>
-			<point name="_si_MaU" x="688" y="209" type="move"/>
+			<point x="-333" y="-215" type="curve" smooth="yes"/>
+			<point x="25" y="-215" type="line"/>
+			<point x="20" y="201" type="line"/>
+			<point x="-7" y="199" type="line"/>
+			<point x="-27" y="-147" type="line"/>
+			<point x="-131" y="-161"/>
+			<point x="-241" y="-170"/>
+			<point x="-335" y="-168" type="curve" smooth="yes"/>
+			<point x="-387" y="-167"/>
+			<point x="-409" y="-119"/>
+			<point x="-409" y="-92" type="curve"/>
+			<point x="-412" y="-91"/>
+			<point x="-415" y="-91"/>
+			<point x="-418" y="-91" type="curve" smooth="yes"/>
+			<point x="-441" y="-91"/>
+			<point x="-473" y="-105"/>
+			<point x="-483" y="-115" type="curve"/>
+			<point x="-475" y="-157"/>
+			<point x="-435" y="-215"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2019-01-05 04:56:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>

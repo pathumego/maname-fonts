@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinShRa" format="1">
-	<advance width="970"/>
+<glyph name="sinShRa" format="2">
+	<advance width="778"/>
 	<outline>
-		<component base="sinRakar.long" xOffset="542" yOffset="23"/>
-		<component base="sinSha"/>
+		<component base="sinRakar.long" xOffset="416" yOffset="18"/>
+		<component base="sha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-26 03:45:10 +0000</string>
+			<string>2018-09-17 05:59:42 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinGRa</string>
 		</dict>
 	</lib>
 </glyph>

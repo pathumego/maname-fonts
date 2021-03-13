@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinBhRIi" format="1">
-	<advance width="993"/>
+<glyph name="sinBhRIi" format="2">
+	<advance width="765"/>
 	<outline>
-		<component base="sinRakar.long" xOffset="574"/>
-		<component base="sinBha"/>
+		<component base="sinRakar.long" xOffset="425"/>
+		<component base="bha-sinhala"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-26 04:24:37 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
 		</dict>
 	</lib>
 </glyph>

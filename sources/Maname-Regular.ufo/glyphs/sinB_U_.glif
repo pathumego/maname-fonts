@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinBU" format="1">
-	<advance width="855"/>
+<glyph name="sinBU" format="2">
+	<advance width="659"/>
 	<outline>
-		<component base="sinMatraU.alt" xOffset="728" yOffset="-34"/>
-		<component base="sinBa" xOffset="10"/>
+		<component base="ba-sinhala" xOffset="8"/>
+		<component base="uMatra-sinhala" xOffset="591" yOffset="6"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-23 07:01:15 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
 		</dict>
 	</lib>
 </glyph>

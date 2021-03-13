@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlautcomb" format="1">
+<glyph name="hungarumlautcomb" format="2">
+	<advance width="222"/>
 	<unicode hex="030B"/>
-	<advance width="288"/>
 	<outline>
-		<component base="acute" xScale="0.788" xyScale="0.616" yxScale="-0.616" yScale="0.788" xOffset="831" yOffset="121"/>
-		<component base="acute" xScale="0.788" xyScale="0.616" yxScale="-0.616" yScale="0.788" xOffset="680" yOffset="160"/>
-		<contour>
-			<point name="top" x="145" y="905" type="move"/>
-		</contour>
-		<contour>
-			<point name="_top" x="144" y="0" type="move"/>
-		</contour>
+		<component base="acute" xScale="0.788" xyScale="0.616" yScale="0.788" yxScale="-0.616" xOffset="640" yOffset="94"/>
+		<component base="acute" xScale="0.788" xyScale="0.616" yScale="0.788" yxScale="-0.616" xOffset="524" yOffset="123"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-27 07:14:03 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
 		</dict>
 	</lib>
 </glyph>

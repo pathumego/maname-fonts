@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMUu" format="1">
-	<advance width="826"/>
+<glyph name="sinMUu" format="2">
+	<advance width="656"/>
 	<outline>
-		<component base="sinMatraUu.alt" xOffset="712"/>
-		<component base="sinMa"/>
+		<component base="ma-sinhala"/>
+		<component base="uuMatra-sinhala" xOffset="576" yOffset="-10"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-18 07:34:02 +0000</string>
+			<string>2018-09-16 19:02:18 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>sinMa</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>sinMa</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,36 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinMatraI.alt1" format="1">
+<glyph name="sinMatraI.alt1" format="2">
+	<advance width="0"/>
+	<anchor x="-1" y="350" name="_MatraI"/>
 	<outline>
 		<contour>
-			<point x="92" y="482" type="line"/>
-			<point x="78" y="690"/>
-			<point x="215" y="773"/>
-			<point x="345" y="780" type="curve" smooth="yes"/>
-			<point x="454" y="786"/>
-			<point x="565" y="747"/>
-			<point x="565" y="675" type="curve" smooth="yes"/>
-			<point x="565" y="611"/>
-			<point x="483" y="557"/>
-			<point x="411" y="576" type="curve"/>
-			<point x="426" y="526" type="line"/>
-			<point x="568" y="527"/>
-			<point x="615" y="632"/>
-			<point x="614" y="708" type="curve" smooth="yes"/>
-			<point x="611" y="806"/>
-			<point x="523" y="870"/>
-			<point x="407" y="869" type="curve" smooth="yes"/>
-			<point x="174" y="867"/>
-			<point x="55" y="672"/>
-			<point x="-1" y="456" type="curve"/>
-		</contour>
-		<contour>
-			<point name="_MatraI" x="-1" y="455" type="move"/>
+			<point x="-1" y="349" type="curve"/>
+			<point x="78" y="367" type="line"/>
+			<point x="71" y="388"/>
+			<point x="65" y="416"/>
+			<point x="65" y="445" type="curve" smooth="yes"/>
+			<point x="65" y="469"/>
+			<point x="69" y="493"/>
+			<point x="81" y="515" type="curve" smooth="yes"/>
+			<point x="107" y="563"/>
+			<point x="173" y="586"/>
+			<point x="236" y="586" type="curve" smooth="yes"/>
+			<point x="297" y="586"/>
+			<point x="390" y="560"/>
+			<point x="390" y="485" type="curve" smooth="yes"/>
+			<point x="390" y="459"/>
+			<point x="376" y="410"/>
+			<point x="299" y="415" type="curve"/>
+			<point x="332" y="364" type="line"/>
+			<point x="412" y="355"/>
+			<point x="428" y="460"/>
+			<point x="428" y="498" type="curve" smooth="yes"/>
+			<point x="428" y="603"/>
+			<point x="352" y="668"/>
+			<point x="256" y="668" type="curve" smooth="yes"/>
+			<point x="92" y="668"/>
+			<point x="22" y="536"/>
 		</contour>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-24 06:58:41 +0000</string>
+			<string>2019-01-05 04:56:58 +0000</string>
 		</dict>
 	</lib>
 </glyph>

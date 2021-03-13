@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Odblgrave" format="1">
+<glyph name="Odblgrave" format="2">
+	<advance width="630"/>
 	<unicode hex="020C"/>
-	<advance width="818"/>
 	<outline>
 		<component base="O"/>
-		<component base="dblgravecomb" xOffset="399" yOffset="144"/>
+		<component base="dblgravecomb" xOffset="307" yOffset="111"/>
 	</outline>
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 08:26:38 +0000</string>
+			<string>2018-09-12 15:08:21 +0000</string>
 		</dict>
 	</lib>
 </glyph>

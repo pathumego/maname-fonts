@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abrevehookabove" format="1">
+<glyph name="Abrevehookabove" format="2">
+	<advance width="650"/>
 	<unicode hex="1EB2"/>
-	<advance width="844"/>
 	<outline>
 		<component base="A"/>
-		<component base="brevecomb" xOffset="422" yOffset="19"/>
-		<component base="hookabovecomb" xOffset="422" yOffset="274"/>
+		<component base="brevecomb" xOffset="325" yOffset="14"/>
+		<component base="hookabovecomb" xOffset="325" yOffset="157"/>
 	</outline>
 	<lib>
 		<dict>
@@ -21,7 +21,7 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2017-01-29 07:55:06 +0000</string>
+			<string>2018-09-12 15:08:20 +0000</string>
 		</dict>
 	</lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sinTtRa" format="1">
-	<advance width="760"/>
+<glyph name="sinTtRa" format="2">
+	<advance width="585"/>
 	<outline>
-		<component base="sinTta"/>
-		<component base="sinRakar.medium" xOffset="715" yOffset="-15"/>
+		<component base="tta-sinhala"/>
+		<component base="sinRakar.medium" xOffset="558" yOffset="39"/>
 	</outline>
 	<lib>
 		<dict>
@@ -19,7 +19,9 @@
 				</dict>
 			</array>
 			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2016-12-30 17:51:47 +0000</string>
+			<string>2018-09-16 20:00:37 +0000</string>
+			<key>public.markColor</key>
+			<string>0.67,0.95,0.38,1</string>
 		</dict>
 	</lib>
 </glyph>
